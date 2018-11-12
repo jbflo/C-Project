@@ -1,0 +1,56 @@
+# depslib dependency file v1.0
+1421577930 source:c:\users\jb-flo\desktop\uniquelib\main.c
+	<stdio.h>
+	<stdlib.h>
+	"defines.h"
+	"menu.h"
+	"create.h"
+	"my_var.h"
+	"save_data.h"
+	"sort_data.h"
+	"modify.h"
+	"load_data.h"
+	"about.h"
+	"show_data.h"
+	"details.h"
+
+1421432804 c:\users\jb-flo\desktop\uniquelib\defines.h
+	<windows.h>
+
+1421613400 c:\users\jb-flo\desktop\uniquelib\menu.h
+	"defines.h"
+	"consolemgmt.h"
+
+1375734498 source:c:\users\jb-flo\desktop\uniquelib\bel.rc
+
+1375734498 c:\users\jb-flo\desktop\uniquelib\consolemgmt.h
+	<windows.h>
+
+1421496679 c:\users\jb-flo\desktop\uniquelib\my_var.h
+	"defines.h"
+
+1421604141 c:\users\jb-flo\desktop\uniquelib\create.h
+	"defines.h"
+	"my_var.h"
+
+1421666637 c:\users\jb-flo\desktop\uniquelib\save_data.h
+	"defines.h"
+	"my_var.h"
+
+1421496881 c:\users\jb-flo\desktop\uniquelib\sort_data.h
+	"defines.h"
+
+1421958974 c:\users\jb-flo\desktop\uniquelib\modify.h
+	<ctype.h>
+	"defines.h"
+
+1421497786 c:\users\jb-flo\desktop\uniquelib\load_data.h
+	"defines.h"
+	"my_var.h"
+
+1421700094 c:\users\jb-flo\desktop\uniquelib\about.h
+	"defines.h"
+
+1421665107 c:\users\jb-flo\desktop\uniquelib\show_data.h
+	"defines.h"
+
